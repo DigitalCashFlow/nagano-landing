@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nagano Tonic - Lose Weight Naturally</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #e63946;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #b22222;
+        }
+        .note {
+            font-size: 16px;
+            color: #d9534f;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔥 Lose Weight Naturally with Nagano Tonic! 🔥</h1>
+        <p>Discover the **power of natural ingredients** that help you boost metabolism, burn fat, and improve digestion.</p>
+        <p>✅ Supports healthy weight loss</p>
+        <p>✅ Boosts metabolism and energy levels</p>
+        <p>✅ 100% Natural and safe formula</p>
+        <p class="note">📌 Special Limited-Time Offer - Order Now!</p>
+        <p>Take control of your health today!</p>
+        <a href="https://hop.clickbank.net/?affiliate=FERNANDO%20CEDENO&vendor=lbtonic&pid=18" class="cta-button">🌟 Get Nagano Tonic Now!</a>
+    </div>
+</body>
+</html>
